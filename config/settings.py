@@ -1,0 +1,3 @@
+PORT = '5555'
+DOMAIN = '127.0.0.1'
+SERVER_NAME = DOMAIN + ':' + PORT
