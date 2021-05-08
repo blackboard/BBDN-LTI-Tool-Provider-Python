@@ -1,5 +1,5 @@
 """
-app.api.rest
+app.internal.rest
 ------------
 
 """
@@ -42,4 +42,4 @@ class Course(Resource):
 
         :return:
         """
-        pass+-
+        pass

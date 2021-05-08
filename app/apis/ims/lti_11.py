@@ -1,5 +1,5 @@
 """
-app.api.lti.lti_11
+app.internal.ims.lti_11
 ------------------
 """
 from flask_restful import Resource
@@ -19,19 +19,6 @@ class Lti(Resource):
 
 
 class Outcomes(Resource):
-    """
-
-    """
-
-    def post(self):
-        """
-
-        :return:
-        """
-        pass
-
-
-class SendOutcomes(Resource):
     """
 
     """

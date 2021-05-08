@@ -3,3 +3,5 @@ flask_restful
 sqlalchemy
 PyLTI1p3
 gunicorn
+py-jwt-validator
+flask-cors

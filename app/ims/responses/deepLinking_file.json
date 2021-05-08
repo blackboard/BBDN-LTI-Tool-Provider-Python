@@ -1,0 +1,12 @@
+{
+  "type": "file",
+  "title": "A file like a PDF that is my assignment submissions",
+  "url": "https://my.example.com/assignment1.pdf",
+  "mediaType": "application/pdf",
+  "expiresAt": "2018-03-06T20:05:02Z",
+  "thumbnail": {
+    "url": "https://photos.smugmug.com/photos/i-t4nLkQd/0/Th/i-t4nLkQd-Th.jpg",
+    "width": 50,
+    "height": 50
+  }
+}

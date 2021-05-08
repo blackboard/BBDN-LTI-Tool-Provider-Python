@@ -1,5 +1,5 @@
 """
-app.py
+app
 --------------------------------------------
 """
 from app import create_app

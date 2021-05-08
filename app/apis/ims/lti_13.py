@@ -1,12 +1,11 @@
 """
-app.api.cim
------------
+app.apis.ims.lti_13
+-------------------
 """
-
 from flask_restful import Resource
 
 
-class CIMRequest(Resource):
+class Lti13(Resource):
     """
 
     """
@@ -19,7 +18,20 @@ class CIMRequest(Resource):
         pass
 
 
-class ContentItemData(Resource):
+class JWTPayloadData(Resource):
+    """
+
+    """
+
+    def get(self):
+        """
+
+        :return:
+        """
+        pass
+
+
+class Login(Resource):
     """
 
     """

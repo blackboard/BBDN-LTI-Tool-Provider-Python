@@ -3,19 +3,26 @@ app.__init__
 ------------
 Application factory
 """
+import logging
 import os
 
 from flask import Flask
+from flask_cors import CORS
+
+import apis
 
 
 def init_app() -> Flask:
     """
     :return:
     """
-    from routes import api
 
     app = Flask(__name__)
-    api.init_app(app)
+    cors = CORS(app, resources={"*": {"origins": "*"}})
+    logging.getLogger('info')
+    logging.basicConfig(filename='server.log', level=logging.INFO)
+    apis.init_app(app)
+
     return app
 
 

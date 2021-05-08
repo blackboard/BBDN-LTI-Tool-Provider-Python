@@ -1,10 +1,26 @@
 """
+internal.caliper.caliper
+-------------------
 
 """
 from flask_restful import Resource
 
 
-class Lti13(Resource):
+class Send(Resource):
+    """
+
+    """
+
+    def post(self):
+        """
+        
+        :param self: 
+        :return: 
+        """""
+        pass
+
+
+class Register(Resource):
     """
 
     """
@@ -17,7 +33,7 @@ class Lti13(Resource):
         pass
 
 
-class DeepLinkingPayloadData:
+class Caliper(Resource):
     """
 
     """
@@ -28,12 +44,6 @@ class DeepLinkingPayloadData:
         :return:
         """
         pass
-
-
-class DeepLinkingContent:
-    """
-
-    """
 
     def post(self):
         """
@@ -41,19 +51,3 @@ class DeepLinkingContent:
         :return:
         """
         pass
-
-
-class JWTPayloadData(Resource):
-    """
-
-    """
-
-    def get(self):
-        """
-
-        :return:
-        """
-        pass
-
-
-class Login(Resource)

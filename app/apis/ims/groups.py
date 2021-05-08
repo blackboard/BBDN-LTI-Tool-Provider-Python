@@ -1,39 +1,13 @@
 """
-api.caliper.caliper
+app.apis.ims.groups
 -------------------
 
 """
+
 from flask_restful import Resource
 
 
-class Send(Resource):
-    """
-
-    """
-
-    def post(self):
-        """
-        
-        :param self: 
-        :return: 
-        """""
-        pass
-
-
-class Register(Resource):
-    """
-
-    """
-
-    def post(self):
-        """
-
-        :return:
-        """
-        pass
-
-
-class Caliper(Resource):
+class Groups(Resource):
     """
 
     """
@@ -46,6 +20,45 @@ class Caliper(Resource):
         pass
 
     def post(self):
+        """
+
+        :return:
+        """
+        pass
+
+
+class GroupsPayloadData(Resource):
+    """
+
+    """
+
+    def get(self):
+        """
+
+        :return:
+        """
+        pass
+
+
+class GroupSets(Resource):
+    """
+
+    """
+
+    def post(self):
+        """
+
+        :return:
+        """
+        pass
+
+
+class GroupSetsPayloadData(Resource):
+    """
+
+    """
+
+    def get(self):
         """
 
         :return:

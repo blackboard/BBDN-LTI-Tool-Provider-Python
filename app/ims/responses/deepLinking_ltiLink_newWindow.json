@@ -1,0 +1,27 @@
+{
+  "type": "ltiResourceLink",
+  "title": "A New Window & LTI Link",
+  "text": "A new window & \" description",
+  "url": "",
+  "icon": {
+    "url": "https://photos.smugmug.com/photos/i-PhqNP5C/0/7be04c91/Th/i-PhqNP5C-Th.jpg",
+    "width": 100,
+    "height": 100
+  },
+  "lineItem": {
+    "scoreMaximum": 100,
+    "label": "New Window quiz",
+    "resourceId": "xyzpdasdfq1234",
+    "tag": "originality"
+  },
+  "custom": {
+    "key1": "new window & link value",
+    "userName": "$User.username",
+    "userEmail": "$Person.email.primary",
+    "userSysRoles": "@X@user.role@X@",
+    "source": "new window link"
+  },
+  "window": {
+    "targetName": "_blank"
+  }
+}
