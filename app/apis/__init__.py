@@ -1,10 +1,12 @@
 import logging
 
+import logs
+
 from flask import Blueprint
 from flask_restful import Api
 
 from apis import internal, ims
-from logging import Logger
+
 
 def init_app(app):
     """
@@ -12,15 +14,14 @@ def init_app(app):
     :return:
     """
 
-    logger = logging.getLogger('info')
-    logger.log(logging.INFO, 'Initializing API')
-
     api_blueprint = Blueprint('api', __name__)
 
     api = Api(api_blueprint)
 
+    logs.server_logger.info('Initializing API')
+
     internal.init_app(api)
-    ims.init_app(api)
+    ims.init_app(api, '/ims')
 
     app.register_blueprint(api_blueprint)
 

@@ -3,12 +3,12 @@ app.ims.lti_advantage
 ---------------------
 
 """
-from logging import Logger
+from logs import Logger
 
 from py_jwt_validator import PyJwtValidator, PyJwtException
 
 
-def verify_token(id_token, jwt_payload, setup) -> bool:
+def verify_token(id_token, jwt_payload) -> bool:
     """
 
     :param id_token:
@@ -16,7 +16,7 @@ def verify_token(id_token, jwt_payload, setup) -> bool:
     :param setup:
     :return:
     """
-    parts = id_token.split('.')
+    parts = id_token.split('.');
 
     try:
         PyJwtValidator(id_token)

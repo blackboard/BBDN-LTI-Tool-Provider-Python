@@ -3,6 +3,9 @@ app.internal.ims.lti_11
 ------------------
 """
 from flask_restful import Resource
+from flask import request
+
+CONTENT_ITEM_SELECTION_REQUEST = "ContentItemSelectionRequest"
 
 
 class Lti(Resource):
@@ -15,46 +18,10 @@ class Lti(Resource):
 
         :return:
         """
-        pass
+        if request.data.lti_message_type == CONTENT_ITEM_SELECTION_REQUEST:
+            pass
 
 
-class Outcomes(Resource):
-    """
-
-    """
-
-    def post(self):
-        """
-
-        :return:
-        """
-        pass
-
-
-class SendOutcomes(Resource):
-    """
-
-    """
-
-    def post(self):
-        """
-
-        :return:
-        """
-        pass
-
-
-class GetOutcomes(Resource):
-    """
-
-    """
-
-    def post(self):
-        """
-
-        :return:
-        """
-        pass
 
 
 class Membership(Resource):

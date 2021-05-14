@@ -5,3 +5,5 @@ PyLTI1p3
 gunicorn
 py-jwt-validator
 flask-cors
+Flask-Caching
+redis
