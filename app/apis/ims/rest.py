@@ -1,6 +1,6 @@
 """
 app.internal.rest
-------------
+-----------------
 
 """
 from flask_restful import Resource

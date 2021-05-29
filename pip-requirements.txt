@@ -7,3 +7,4 @@ py-jwt-validator
 flask-cors
 Flask-Caching
 redis
+PyJWT

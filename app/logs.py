@@ -1,3 +1,9 @@
+"""
+app.logs
+--------
+
+"""
+
 import logging
 
 
@@ -27,4 +33,4 @@ def setup_logger(name, log_file, level=logging.INFO, format=None) -> logging.Log
 
 
 server_logger = setup_logger('server', 'server.log')
-api_logger = setup_logger('api', 'api.log', format='%(asctime)-15s %(clientip)s %(user)-8s %(message)s')
+api_logger = setup_logger('api', 'api.log', format='%(asctime)-15s %(clientip)s %(path)s %(user)-8s %(message)s')

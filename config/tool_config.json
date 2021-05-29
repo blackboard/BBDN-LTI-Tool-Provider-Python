@@ -71,9 +71,9 @@
     {
       "default": true,
       "client_id": "5d678c4f-7ad1-47b3-811b-b389950a3ef5",
-      "auth_login_url": "https://developer.blackboard.com/api/v1/gateway/oidcauth",
-      "auth_token_url": "https://developer.blackboard.com/api/v1/gateway/oauth2/jwttoken",
-      "key_set_url": "https://developer.blackboard.com/api/v1/management/applications/<your client id>/jwks.json",
+      "auth_login_url": "http://localhost:9080/api/v1/gateway/oidcauth",
+      "auth_token_url": "http://localhost:9080/api/v1/gateway/oauth2/jwttoken",
+      "key_set_url": "http://localhost:9080/api/v1/management/applications/5d678c4f-7ad1-47b3-811b-b389950a3ef5/jwks.json",
       "key_set": null,
       "private_key_file": "keys/private-key.pem",
       "public_key_file": "keys/public-key.pem",

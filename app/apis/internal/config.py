@@ -3,6 +3,7 @@ app.apis.internal.config
 ------------------------
 
 """
+
 from flask_restful import Resource
 
 

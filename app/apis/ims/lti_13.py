@@ -1,12 +1,14 @@
 """
 app.apis.ims.lti_13
 -------------------
-"""
-import logging
 
+"""
+
+from flask import request
 from flask_restful import Resource
 from pylti1p3.contrib.flask import FlaskCacheDataStorage, FlaskRequest, FlaskOIDCLogin
 
+import logs
 from cache import cache
 from config import settings
 from logs import api_logger
@@ -51,11 +53,14 @@ class Login(Resource):
         tool_conf = settings.LTI_TOOL_CONFIG
         launch_data_storage = FlaskCacheDataStorage(cache)
 
-        request = FlaskRequest()
-        target_link_uri = request.get_param('target_link_uri')
+        flask_request = FlaskRequest()
+        target_link_uri = flask_request.get_param('target_link_uri')
 
         if not target_link_uri:
             raise Exception('Missing "target_link_uri" param')
 
-        oidc_login = FlaskOIDCLogin(request, tool_conf, launch_data_storage=launch_data_storage)
+        logs.api_logger.info("LTI Login",
+                             extra={"clientip": request.remote_addr, "path": request.path, "user": request.remote_user})
+
+        oidc_login = FlaskOIDCLogin(flask_request, tool_conf, launch_data_storage=launch_data_storage)
         return oidc_login.enable_check_cookies().redirect(target_link_uri)

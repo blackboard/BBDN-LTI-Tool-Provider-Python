@@ -3,7 +3,8 @@ app.ims.lti_advantage
 ---------------------
 
 """
-from logs import Logger
+
+from logs import server_logger
 
 from py_jwt_validator import PyJwtValidator, PyJwtException
 
