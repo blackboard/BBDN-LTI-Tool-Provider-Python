@@ -2,7 +2,6 @@
 conf/__init__.py
 -------------------------------------------------------------------
 """
-from logging import Logger, INFO
 from pathlib import Path
 
 from pylti1p3.tool_config import ToolConfJsonFile

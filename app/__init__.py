@@ -3,16 +3,13 @@ app.__init__
 ------------
 Application factory
 """
-import logging
 
-import logs
+import apis
 import os
 
 from flask import Flask
-from flask_caching import Cache
 from flask_cors import CORS
 
-import apis
 from cache import cache
 from config import settings
 

@@ -11,6 +11,7 @@ from flask_restful import Resource
 
 import logs
 from cache import cache
+from helpers.aws_connection import get_files_from_bucket
 from helpers.dynamic_content import generate_token
 from ims.deep_link import deep_link_content, deep_link_frame
 # Constants
@@ -60,6 +61,20 @@ class DeepLinkingContent(Resource):
         content = deep_link_content(lti_content)
 
         return content
+
+
+class CustomDeepLinkingContentTypes(Resource):
+    """
+    Custom deeplinking content
+    """
+
+    def get(self):
+        """
+
+        :return:
+        """
+
+        return get_files_from_bucket()
 
 
 class DeepLinkingOptions(Resource):

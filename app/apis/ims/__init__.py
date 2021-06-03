@@ -49,6 +49,7 @@ def init_app(api: Api, prefix_url=None):
 
     api.add_resource(deep_link.DeepLinkingPayloadData, evaluate_url('/deepLink/payloadData', prefix_url))
     api.add_resource(deep_link.DeepLinkingContent, evaluate_url('/deepLink/content', prefix_url))
+    api.add_resource(deep_link.CustomDeepLinkingContentTypes, evaluate_url('/deepLink/content/custom/contentTypes', prefix_url))
     api.add_resource(deep_link.DeepLinkingOptions, evaluate_url('/deepLink/options', prefix_url))
     api.add_resource(deep_link.DeepLinkingFrame, evaluate_url('/deepLink/frame', prefix_url))
 

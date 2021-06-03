@@ -5,6 +5,8 @@ app.logs
 """
 
 import logging
+import os
+from pathlib import Path
 
 
 def setup_logger(name, log_file, level=logging.INFO, format=None) -> logging.Logger:
@@ -16,11 +18,13 @@ def setup_logger(name, log_file, level=logging.INFO, format=None) -> logging.Log
     :param format:
     :return:
     """
+
     logger = logging.getLogger(name)
     if format is None:
         format = '%(asctime)s : %(message)s'
     formatter = logging.Formatter(format)
-    file_handler = logging.FileHandler('logs/' + log_file, mode="a")
+
+    file_handler = logging.FileHandler(get_logging_dir() / log_file, mode="a")
     file_handler.setFormatter(formatter)
     stream_handler = logging.StreamHandler()
     stream_handler.setFormatter(formatter)
@@ -30,6 +34,19 @@ def setup_logger(name, log_file, level=logging.INFO, format=None) -> logging.Log
     logger.addHandler(stream_handler)
 
     return logger
+
+
+def get_logging_dir():
+    """
+
+    :return:
+    """
+    root = Path(__file__).parent.parent
+    log_dir = root / 'logs'
+    if not os.path.exists(log_dir):
+        os.mkdir(log_dir)
+
+    return log_dir
 
 
 server_logger = setup_logger('server', 'server.log')
