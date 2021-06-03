@@ -1,7 +1,7 @@
 #Ignore the logs directory
 logs/
 
-*.env
+.env
 
 /venv
 

@@ -11,6 +11,6 @@ COPY .. .
 RUN pip install --upgrade pip
 RUN pip install -r pip-requirements.txt
 ENV PYTHONPATH "${PYTHONPATH}:./app"
-EXPOSE 5555
+EXPOSE 5000
 
 ENTRYPOINT ["gunicorn", "--config", "gunicorn_config.py", "wsgi:application"]

@@ -16,3 +16,11 @@ pip install -r pip-requirements
 ```
 npm start
 ```
+
+### Docker
+
+To build the docker image run the following command on the root folder
+
+```
+docker build . -f docker/Dockerfile -t ltitool-python 
+```
