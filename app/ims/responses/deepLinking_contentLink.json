@@ -1,0 +1,15 @@
+{
+  "type": "link",
+  "title": "My &Home\" Page",
+  "url": "https://www.google.com?foo=bar&a=b&url=https%3A%2F%2Fwww.google.com%3Ffoo%3Dbar%26a%3Db",
+  "icon": {
+    "url": "https://photos.smugmug.com/photos/i-t4nLkQd/0/Th/i-t4nLkQd-Th.jpg",
+    "width": 100,
+    "height": 100
+  },
+  "thumbnail": {
+    "url": "https://photos.smugmug.com/photos/i-t4nLkQd/0/Th/i-t4nLkQd-Th.jpg",
+    "width": 90,
+    "height": 90
+  }
+}
