@@ -1,4 +1,11 @@
 flask
-sqlalchemy
+flask_restful
 PyLTI1p3
 gunicorn
+py-jwt-validator
+flask-cors
+Flask-Caching
+redis
+PyJWT
+boto3
+python-decouple

@@ -1,0 +1,101 @@
+{
+  "http://imsglobal.org": [
+    {
+      "default": true,
+      "client_id": "5d678c4f-7ad1-47b3-811b-b389950a3ef5",
+      "auth_login_url": "https://lti-ri.imsglobal.org/platforms/370/authorizations/new",
+      "auth_token_url": "https://lti-ri.imsglobal.org/platforms/370/access_tokens",
+      "key_set_url": "https://lti-ri.imsglobal.org/platforms/370/platform_keys/361.json",
+      "key_set": {
+        "keys": [
+          {
+            "kty": "RSA",
+            "e": "AQAB",
+            "use": "sig",
+            "kid": "WPQdsYJr_rIIFLXElYwGe6Dt-a4A9BHvYTN4ra9LoFU",
+            "alg": "RS256",
+            "n": "2VpDqVPSOKANwzWJf4K137l0LuLthskKk8IArYmfv8fGBga4mJ9L03lfm_vh5ZBQB2bRop9KXtXfLGxwJE58UWHZB3ScX34ae0xNidq79uKxlgMnNf0W74ahg-HeDogpZL632KDm6q8a1aLV8EfZdj7e6t6Dxia0fp6GE1voem-7UxcsTMrufof-XHCBs9KH56NdK8WvXiPmxmU7RncYyselNhOA-hHnEpB1wvH7DdkkL9f3uIPK7qcGLZMcoO-t5DnEvxUxXiX1tTxIY1m6-ltOrrWhspN-_h1Q_LetRovscYUsOs4E5Eu4aOChzQvrPSfNaUL6iKqVs2IO2NLgoQ"
+          }
+        ]
+      },
+      "private_key_file": "keys/private-key.pem",
+      "public_key_file": "keys/public-key.pem",
+      "deployment_ids": [
+        "py1234"
+      ]
+    }
+  ],
+  "https://canvas.instructure.com": [
+    {
+      "default": true,
+      "client_id": "10000000000003",
+      "auth_login_url": "http://canvas.test/api/lti/authorize_redirect",
+      "auth_token_url": "http://canvas.test/login/oauth2/token",
+      "key_set_url": "http://canvas.test/api/lti/security/jwks",
+      "key_set": null,
+      "private_key_file": "keys/private-key.pem",
+      "public_key_file": "keys/public-key.pem",
+      "deployment_ids": [
+        "2:4dde05e8ca1973bcca9bffc13e1548820eee93a3"
+      ]
+    },
+    {
+      "client_id": "10000000000004",
+      "auth_login_url": "http://canvas.test/api/lti/authorize_redirect",
+      "auth_token_url": "http://canvas.test/login/oauth2/token",
+      "key_set_url": "http://canvas.test/api/lti/security/jwks",
+      "key_set": null,
+      "private_key_file": "keys/private-key.pem",
+      "public_key_file": "keys/public-key.pem",
+      "deployment_ids": [
+        "3:4dde05e8ca1973bcca9bffc13e1548820eee93a3"
+      ]
+    }
+  ],
+  "ltiadvantagevalidator.imsglobal.org": [
+    {
+      "default": true,
+      "client_id": "imstestuser",
+      "auth_login_url": "https://ltiadvantagevalidator.imsglobal.org/ltitool/oidcauthurl.html",
+      "auth_token_url": "https://oauth2server.imsglobal.org/oauth2server/authcodejwt",
+      "key_set_url": "https://oauth2server.imsglobal.org/jwks",
+      "key_set": null,
+      "private_key_file": "keys/private-key.pem",
+      "public_key_file": "keys/public-key.pem",
+      "deployment_ids": [
+        "testdeploy"
+      ]
+    }
+  ],
+  "https://blackboard.com": [
+    {
+      "default": true,
+      "client_id": "5d678c4f-7ad1-47b3-811b-b389950a3ef5",
+      "auth_login_url": "http://localhost:9080/api/v1/gateway/oidcauth",
+      "auth_token_url": "http://localhost:9080/api/v1/gateway/oauth2/jwttoken",
+      "key_set_url": "http://localhost:9080/api/v1/management/applications/5d678c4f-7ad1-47b3-811b-b389950a3ef5/jwks.json",
+      "key_set": null,
+      "private_key_file": "keys/private-key.pem",
+      "public_key_file": "keys/public-key.pem",
+      "deployment_ids": [
+        "deployment-id"
+      ]
+    }
+  ],
+  "https://partners.brightspace.com": [
+    {
+      "default": true,
+      "client_id": "client-id",
+      "auth_login_url": "https://partners.brightspace.com/d2l/lti/authenticate",
+      "auth_token_url": "https://auth.brightspace.com/core/connect/token",
+      "auth_audience": "https://api.brightspace.com/auth/token",
+      "key_set_url": "https://partners.brightspace.com/d2l/.well-known/jwks",
+      "key_set": null,
+      "private_key_file": "keys/private-key.pem",
+      "public_key_file": "keys/public-key.pem",
+      "deployment_ids": [
+        "deployment-id"
+      ]
+    }
+  ]
+}

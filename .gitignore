@@ -113,6 +113,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Environment files
+*.env
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -139,3 +142,4 @@ cython_debug/
 
 # idea
 .idea
+
