@@ -19,7 +19,8 @@ def decode_jwt(jwt_token, provider):
     :return:
     """
 
-    jwks_url = current_app.config['LTI_TOOL_CONFIG'].get_iss_config(provider)['key_set_url']
+    provider_config = current_app.config['LTI_TOOL_CONFIG'].get_iss_config(provider)
+    jwks_url = provider_config['key_set_url']
     jwks = requests.get(jwks_url).json()
 
     public_keys = {}
@@ -30,6 +31,6 @@ def decode_jwt(jwt_token, provider):
     kid = jwt.get_unverified_header(jwt_token)['kid']
     key = public_keys[kid]
 
-    jwt_payload = jwt.decode(jwt_token, key=key, audience='5d678c4f-7ad1-47b3-811b-b389950a3ef5', algorithms=['RS256'])
+    jwt_payload = jwt.decode(jwt_token, key=key, audience=provider_config['client_id'], algorithms=['RS256'])
 
     return jwt_payload
