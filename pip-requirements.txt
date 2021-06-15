@@ -9,3 +9,5 @@ redis
 PyJWT
 boto3
 python-decouple
+pycryptodome
+jwcrypto
