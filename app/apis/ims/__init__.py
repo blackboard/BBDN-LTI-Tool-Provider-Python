@@ -5,7 +5,7 @@ app.apis.ims.init
 """
 from flask_restful import Api
 
-from apis.ims import caliper, rest, lti_11, lti_13, cim, assignment_grades, deep_link, proctoring, names_roles, groups, jwks, outcomes
+from apis.ims import caliper, rest, lti_11, lti_13, cim, assignment_grades, deep_link, proctoring, names_roles, groups, jwks, outcomes, health
 
 
 def evaluate_url(url, prefix_url):
@@ -79,3 +79,4 @@ def init_app(api: Api, prefix_url=None):
     api.add_resource(assignment_grades.AssignmentGradesPayloadData, evaluate_url('/agPayloadData', prefix_url))
 
     api.add_resource(jwks.WellKnownJWKS, evaluate_url('/jwks', prefix_url))
+    api.add_resource(health.HealthCheck, evaluate_url('/healthCheck', prefix_url))

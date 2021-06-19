@@ -19,12 +19,14 @@ class Lti13Launch(Resource):
 
     """
 
-    def post(self):
+    def post(Resource):
         """
 
         :return:
         """
-        logs.api_logger.info("Lti 1.3 Launch")
+        logs.api_logger.info("Lti 1.3 Launch",
+                            extra={'clientip': request.remote_addr, 'user': request.remote_user})
+        return "hello LTI user!!"
 
 
 class JWTPayloadData(Resource):
