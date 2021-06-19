@@ -24,7 +24,7 @@ class Lti13Launch(Resource):
 
         :return:
         """
-        api_logger.info("Lti 1.3 Launch")
+        logs.api_logger.info("Lti 1.3 Launch")
 
 
 class JWTPayloadData(Resource):
