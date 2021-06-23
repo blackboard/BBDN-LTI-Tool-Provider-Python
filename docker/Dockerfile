@@ -10,7 +10,9 @@ WORKDIR /app
 COPY .. .
 RUN pip install --upgrade pip
 RUN pip install -r pip-requirements.txt
+RUN python /app/app/config/keys/build_config.py
 ENV PYTHONPATH "${PYTHONPATH}:./app"
 EXPOSE 5000
 
+ENTRYPOINT ["/app/scripts/entrypoint.sh"]
 ENTRYPOINT ["gunicorn", "--config", "gunicorn_config.py", "wsgi:application"]
