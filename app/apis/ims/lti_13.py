@@ -13,7 +13,6 @@ from cache import cache
 from config import settings
 from logs import api_logger
 
-
 class Lti13Launch(Resource):
     """
 
