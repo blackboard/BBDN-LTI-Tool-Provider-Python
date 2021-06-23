@@ -29,7 +29,6 @@ DEEPLINK_VERSION = 'https://purl.imsglobal.org/spec/lti/claim/version'
 DEEPLINK_DATA = 'https://purl.imsglobal.org/spec/lti-dl/claim/data'
 DEEPLINK_CONTENT_ITEMS = 'https://purl.imsglobal.org/spec/lti-dl/claim/content_items'
 
-
 def deep_link(request: Request, payload, setup):
     """
 
