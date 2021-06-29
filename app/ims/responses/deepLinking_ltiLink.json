@@ -2,14 +2,6 @@
   "type": "ltiResourceLink",
   "title": "A title for LTI & 1.3 \" Link",
   "text": "A & description with quotes \"",
-  "url": "",
-  "available": {
-    "startDateTime": null,
-    "endDateTime": null
-  },
-  "submission": {
-    "endDateTime": null
-  },
   "icon": {
     "url": "https://photos.smugmug.com/photos/i-t4nLkQd/0/Th/i-t4nLkQd-Th.jpg",
     "width": 100,
