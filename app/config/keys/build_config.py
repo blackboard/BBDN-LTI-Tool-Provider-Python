@@ -1,13 +1,17 @@
 import json
+import os
 from jwcrypto.jwk import JWK
 from Crypto.PublicKey import RSA
 
+key_dir = "app/config/keys/"
+
 def export_key(filename,key):
-    f = open(f"/app/app/config/keys/{filename}", "a")
+    f = open(f"{key_dir}{filename}", "a")
     f.write(key)
     f.close()
     
     
+print(f"CWD: {os.getcwd()}")
 key = RSA.generate(4096)
 private_key = key.exportKey()
 print(str(private_key))
@@ -16,7 +20,7 @@ public_key = key.publickey().exportKey()
 print(str(public_key))
 export_key('public.key', str(public_key, encoding='UTF-8'))
 
-f = open("/app/app/config/keys/public.key", "r")
+f = open(f"{key_dir}public.key", "r")
 public_pem = f.read()
 f.close()
 
