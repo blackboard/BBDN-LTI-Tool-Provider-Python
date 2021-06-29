@@ -49,7 +49,6 @@ To build the docker image run the following command on the root folder
 ```
 docker build . -f docker/Dockerfile -t ltitool-python 
 ```
-<<<<<<< HEAD
 
 ### Key Generation
 
@@ -60,5 +59,3 @@ python app/config/keys/build_config.py
 ```
 
 This will generate private.key, public.key, and public.jwk.json.
-=======
->>>>>>> b4897a23d8e5bad56a0484fcc2809d8929fbc4aa
