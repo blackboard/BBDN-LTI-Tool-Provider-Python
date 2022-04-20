@@ -3,7 +3,7 @@ from jwcrypto.jwk import JWK
 from Crypto.PublicKey import RSA
 
 def export_key(filename,key):
-    f = open(f"/app/app/config/keys/{filename}", "a")
+    f = open(f"app/config/keys/{filename}", "a")
     f.write(key)
     f.close()
     
@@ -16,7 +16,7 @@ public_key = key.publickey().exportKey()
 print(str(public_key))
 export_key('public.key', str(public_key, encoding='UTF-8'))
 
-f = open("/app/app/config/keys/public.key", "r")
+f = open("app/config/keys/public.key", "r")
 public_pem = f.read()
 f.close()
 

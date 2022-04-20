@@ -4,6 +4,7 @@ app.__init__
 Application factory
 """
 
+from distutils.log import debug
 import apis
 import os
 

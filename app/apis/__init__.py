@@ -20,7 +20,7 @@ def init_app(app):
 
     logs.server_logger.info('Initializing API')
 
-    internal.init_app(api)
+    internal.init_app(api, '/internal')
     ims.init_app(api, '/ims')
 
     app.register_blueprint(api_blueprint)

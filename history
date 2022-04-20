@@ -1,0 +1,500 @@
+ls
+source venv/bin/activate
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQKDMADIJY"
+export AWS_SECRET_ACCESS_KEY="C6C9VIE/iyZOB5MSsDhogkPnXIyILJuC/pUEDvde"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEGAaCXVzLWVhc3QtMSJHMEUCIFb1XCUDNIq1nIPaucPIPJeneepnDrcxJ175HSq8PxV8AiEA/79r2hdW/51ZUTrGZHbkPIZeID2eVP2ebOBcU5RvuawqogMIeBAAGgw4NzQ5NzIwNjEwMjQiDG5RNz14YdsSTDeNPir/AoZ9VYbCpV3e7lstfPR3bkstRLBJrcKIdoKCIqup2tNG1s6SsbvvdkDpOs75OfYH/XhDNdKs1oOEhFXNfHBbnG+9nYuf7bryhEc1mRBAWhtCuMTFQpOobOF/6KCi0q4TTjdpSU6fwyCCw94sxnCBVp9Vs0rZyGESG2xqo4AeC6gGBk1yNgPKL91qFdWp+fW3HFS5/FiGVlI2F4F5cAtr1w/X0Dst22zMJwJXAECaM48VdsaP8x+cZ//0e7uXbMvIhFBIiSWutSqbatHg62mKEaSNdsFfxenn+j4QXNqrY8dmYlLsiqd2WMsU7QbaMcgJLS3wtkUW0R2FoMWumiUL3mWYDNp04ZKAJ/YoKZuE3K7CBuP2EhLzqYjUOzliZ66B40p86jeeN8zimN/06t5/6XKBzINv0UHBBDXH9fKMyzCzJ5zh4HXaYH7h3oN7mOSWKhn3SvcHdVYulqkS8t+n1lwcwMb7DHrca12UHhIj8roKRZ1W7sLT5m0LhzvwYYxaMNioho8GOqYBDW5xcMOKBZCKw5IdD5O9Dy++A8/+k3w5hBbtkQQ2N6ekqGfOhZBG53e3TjNxMy440a7GKeNeUdkGh1kMh+zPN43P1LK8uYT8M7HVt1B5oc2a41seNLxwt6NSiti6wcK4oa3i3STb6kumTdXWiedszKdJUrVWX078/pBo9Vz8T8Zcp5roq+pI91Z3k/wh2YLEFKQ6Bsi497mvuNhsIAkNy1jXG86Ahw=="
+aws configure
+clear
+ls
+python app.py 
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+clear
+ls
+python app.py 
+clear
+ls
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+ls
+code .
+python app.py 
+python app.py 
+ls
+cd ..
+ls
+cd ..
+ls
+cd dynamoTesting/
+ls
+code .
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQKDMADIJY"
+export AWS_SECRET_ACCESS_KEY="C6C9VIE/iyZOB5MSsDhogkPnXIyILJuC/pUEDvde"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEGAaCXVzLWVhc3QtMSJHMEUCIFb1XCUDNIq1nIPaucPIPJeneepnDrcxJ175HSq8PxV8AiEA/79r2hdW/51ZUTrGZHbkPIZeID2eVP2ebOBcU5RvuawqogMIeBAAGgw4NzQ5NzIwNjEwMjQiDG5RNz14YdsSTDeNPir/AoZ9VYbCpV3e7lstfPR3bkstRLBJrcKIdoKCIqup2tNG1s6SsbvvdkDpOs75OfYH/XhDNdKs1oOEhFXNfHBbnG+9nYuf7bryhEc1mRBAWhtCuMTFQpOobOF/6KCi0q4TTjdpSU6fwyCCw94sxnCBVp9Vs0rZyGESG2xqo4AeC6gGBk1yNgPKL91qFdWp+fW3HFS5/FiGVlI2F4F5cAtr1w/X0Dst22zMJwJXAECaM48VdsaP8x+cZ//0e7uXbMvIhFBIiSWutSqbatHg62mKEaSNdsFfxenn+j4QXNqrY8dmYlLsiqd2WMsU7QbaMcgJLS3wtkUW0R2FoMWumiUL3mWYDNp04ZKAJ/YoKZuE3K7CBuP2EhLzqYjUOzliZ66B40p86jeeN8zimN/06t5/6XKBzINv0UHBBDXH9fKMyzCzJ5zh4HXaYH7h3oN7mOSWKhn3SvcHdVYulqkS8t+n1lwcwMb7DHrca12UHhIj8roKRZ1W7sLT5m0LhzvwYYxaMNioho8GOqYBDW5xcMOKBZCKw5IdD5O9Dy++A8/+k3w5hBbtkQQ2N6ekqGfOhZBG53e3TjNxMy440a7GKeNeUdkGh1kMh+zPN43P1LK8uYT8M7HVt1B5oc2a41seNLxwt6NSiti6wcK4oa3i3STb6kumTdXWiedszKdJUrVWX078/pBo9Vz8T8Zcp5roq+pI91Z3k/wh2YLEFKQ6Bsi497mvuNhsIAkNy1jXG86Ahw=="
+aws configure
+ls
+cd ..
+ls
+cd l
+cd ltiTestingTool/
+s
+ls
+cd BBDN-LTI-Tool-Provider-Python/
+ls
+source 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/testingDict.py
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQH3PL7UKM"
+export AWS_SECRET_ACCESS_KEY="m00eSzIA1RSzr/HKC/YZ3dQ8jIKIXS9ebyU/da7Q"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEAwaCXVzLWVhc3QtMSJHMEUCIQDXNK4rpvAY/X2FELN41N745pliHD4LFj1s41iD2DtsAAIgD7xsUrdF5pBT/O+HABxUyjRdFcrWtjWsISaZaL2W2/cqogMINRAAGgw4NzQ5NzIwNjEwMjQiDI1XjSjPw7nfclozECr/AlCfYj5TbIPUzQqA3KdY65hZNpBeXv+pKgt8kBZ3BbvaPFxTPnmmMA0l8Z4uCVWwcW8fbRI6Z1aXIAnij8iI4U3Ju+nEy8GTBeRnbz9wudUaeAGKSCctPYljNN+d7jUAU92fFAsVPj50MvrJ1mrBbsVEZikUX22rH+N/etNDtCsUr7k1vFJjaikFVn7ttaTkWO21MsPiWCxX2oLO/Kdup1lVip8ojih+NZOw4qkGc/Hn6vE//iD1HsP4Kj5CEjeslG4Pf1ZUSKmWYV6VEyx5V9cFePYARrr1BWT3FoFC83hxuG8m2uNlUL6tPl7pYb716iZeGCof8kQv50RNtlwfyOXw7mxgJvhOtJAJDWwH4DJa9VLXWvTXQ0NJvfeVgBQ7BfCcQiGPcI9zVqsJX3M8wUfaNNnXQc7SKdx0OZUhD581+AeD9e8IJlahrsmQ0BHjmzIyYXsPVj/saqvGJfXkunZBC4oWyu8T9C958rpA2p51pYAAqTe9bL3EQNgehMGKMMGWrI8GOqYBraq43Twm9UWtAPh+DhcSAYmc61hYr88skWBxTG8F3q9be6pZoiBD/IR3a7tNQkZDnjDyXQnU3fdjc7xJ35pPFC9xIJt77Oxv1Gm254nFb6QaoJeDS2bAw3j0i1VjL5Fo96jcQCGUUWIWcw4rLm+i+81zU3Jiu4KTWRuDuKlZD7NuJLJG8bvnH4lUDZ0+cAr8q6aJ2iVWSDKFePYwoFjHWHprc51mcQ=="
+ls
+aws configure
+ls
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+clear
+ls
+source venv/bin/activate
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+ls
+ls
+leave
+exit
+ls
+python3 readingDynamoItem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQDOMYOU6L"
+export AWS_SECRET_ACCESS_KEY="mIksV6zIqFmyZ/gI85xOjaazhCc1K+BbDoUzLsEc"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEFIaCXVzLWVhc3QtMSJHMEUCIQDIZSiJ4a5MsxEP0A8YzkViHG0E8BzSUOTppuA8QZ16YAIgYhe3bTZVHMplv8G12vkPJV8zucfH0Xa6TuvqcBy9VD0qogMIexAAGgw4NzQ5NzIwNjEwMjQiDKxQRq9bwvccufTESyr/AkkZds5HHbG+ASXgOT5iGc0oBBlLEIQ+iUUG/a3d0lceVIIMWtJbolXW6jajMmnPM639idBa/OTZM1HEjdKN4h0x/wi/l7LqhrK18n6hikTlvjNEBlZdSVKqK8Q273QmF0EbX1FAxTH0EF1Qm/eTpp3FUsHfRRFW6lpLCj5M3cUf384SBtcKgqzLBhFvCnaqlqZVSw4Bj9ONYuf2zXOtCw5tXJuVKBWO/QCcNEP2PCH19GK0GUz+Z6zuLbm+kjdsb8vF5Hk6a663NiHDB4FphzjFFDUxk9sVK25yGWlX3mlsz9pmNRy48yaQoq8FrUIUkSd2eqFtK8HtEHMSqcK+JWgdXJyp++LN8KoRuWRZMOjgT1ABe199jIWODU45lo300G5EOaZAz1uZ4lFpqZB2m1hS5OGWCcpHYV4EXrpPhFDW/nySvOSAo4oEdRx2DlkMx67efe7c7iIRjV0PHM+KKl6RJmin0egA5JUsbGdEyBIXyL2QfiKJL8SjOMqOyFYvMJvPu48GOqYBe1uAmUmXhwEgyvPX6NZhpIFfyBJBrNONt6mGw2dscA1tFRjXiHZpxqyYyKaBZc4bq9f5hva7zeDhyLmDflRKbWp3PsPtP7FKasUEFaqXy/KRBbsHHofrZ49K0tn4kow2Q8iDgSBHZrOuQSndgN7eXIvQNkBDwJtLzkW9dF9ybHhlmv6olw+Ef/fRADppx+LPCfy30fww9l2nrb0ubNNhPH41z5Gv1A=="
+aws configure
+clear
+ls
+python3 readingDynamoItem.py 
+clear
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQIDKMYRNY"
+export AWS_SECRET_ACCESS_KEY="6cjPjUsixhb6FVkYt/bswvxnrPjzBp5mfPuIiTpQ"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEFMaCXVzLWVhc3QtMSJGMEQCIB0v10v1tPEpzSDOVByYybvEC3MI3wemtuKUvMflcsNQAiA73JFmXsjSNk3F3Nc27y3jMI9aN6YgdfhGfJ7TddB+/iqiAwh8EAAaDDg3NDk3MjA2MTAyNCIMHIyKW2u5PAED5rFZKv8Cl0cBp2mLUHVHcEtXo7EdZ7QbOrTafc0IBTq0u8U1cH+aratrgDuEOA/jmTYVAA+KA8vnkcULk6oP7vqaPzeMsQzCUIWw30aH0SxCcWEAji/U74CbzBAj1XYMcG2RNGu2lSYS5h+1d14tWXpNb2EFxOP+eV+hGBs9JTp6+dogdRQrVbqO0aB0jPT+C5M7DdWxe520zHvTGDJpIE6Pgh4rn5SGFMCvbC0u+j/KNGsAouABDDfaVVM+8KzEm0+chetGLyBm6j/IiVv7r9blrIhATl0LYPcTm6RhT3/YVGaAa3rwTO4OcbXSuC/FFdm9cn2hCh7AeU4/aTB9nKOf0CuUx7eEaXrQysIRYNbN3Jur7/YQcL2NKPsySyum5rPneMrExAOvGPOE0SYcB0LK6JsRAMqGBeaTDm2bS0SCpHbQ9vomXnEmDDn/WTW6XdVNRRfRhQZkzeZcT4npT0Pm4ZeyF8liGUn7HWeV+F09QIxDo0/2C9WkDQON5zOSlRRDnVUw89y7jwY6pwH7BEyrJrmvk5fWoY9A3FgnNCEPyVpUrDEcHsquaf0J/6N057PyrvHdZgWZ/yfx2GgjrmnDBUn3QoYcXEPKuWzSiFmF7EIehqfFhETUNLkFqaZeuNDSencgKlaPosuvzZiily2vGP6A8Ur+5UW/BDoqS/lS4NCpdgAka1MJHDyOHJDhb0mBo/ApdY1QMhcAu3zo46g7mQAHR41EtjUqoB9XZdQkul6paw=="
+aws configure
+clear
+ls
+python3 readingDynamoItem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQIDKMYRNY"
+export AWS_SECRET_ACCESS_KEY="6cjPjUsixhb6FVkYt/bswvxnrPjzBp5mfPuIiTpQ"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEFMaCXVzLWVhc3QtMSJGMEQCIB0v10v1tPEpzSDOVByYybvEC3MI3wemtuKUvMflcsNQAiA73JFmXsjSNk3F3Nc27y3jMI9aN6YgdfhGfJ7TddB+/iqiAwh8EAAaDDg3NDk3MjA2MTAyNCIMHIyKW2u5PAED5rFZKv8Cl0cBp2mLUHVHcEtXo7EdZ7QbOrTafc0IBTq0u8U1cH+aratrgDuEOA/jmTYVAA+KA8vnkcULk6oP7vqaPzeMsQzCUIWw30aH0SxCcWEAji/U74CbzBAj1XYMcG2RNGu2lSYS5h+1d14tWXpNb2EFxOP+eV+hGBs9JTp6+dogdRQrVbqO0aB0jPT+C5M7DdWxe520zHvTGDJpIE6Pgh4rn5SGFMCvbC0u+j/KNGsAouABDDfaVVM+8KzEm0+chetGLyBm6j/IiVv7r9blrIhATl0LYPcTm6RhT3/YVGaAa3rwTO4OcbXSuC/FFdm9cn2hCh7AeU4/aTB9nKOf0CuUx7eEaXrQysIRYNbN3Jur7/YQcL2NKPsySyum5rPneMrExAOvGPOE0SYcB0LK6JsRAMqGBeaTDm2bS0SCpHbQ9vomXnEmDDn/WTW6XdVNRRfRhQZkzeZcT4npT0Pm4ZeyF8liGUn7HWeV+F09QIxDo0/2C9WkDQON5zOSlRRDnVUw89y7jwY6pwH7BEyrJrmvk5fWoY9A3FgnNCEPyVpUrDEcHsquaf0J/6N057PyrvHdZgWZ/yfx2GgjrmnDBUn3QoYcXEPKuWzSiFmF7EIehqfFhETUNLkFqaZeuNDSencgKlaPosuvzZiily2vGP6A8Ur+5UW/BDoqS/lS4NCpdgAka1MJHDyOHJDhb0mBo/ApdY1QMhcAu3zo46g7mQAHR41EtjUqoB9XZdQkul6paw=="
+aws configure
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQCC7BPPPS"
+export AWS_SECRET_ACCESS_KEY="oqzO/EBpyFGKaoRBkmo28bbCUWCVnHNiusLS9QWR"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEFMaCXVzLWVhc3QtMSJIMEYCIQDY8IyT6SA/INxHmNHEH9XcwH5RlLwBbjU0A9o9ZqCuOAIhAM4goYKwpTIJF28j3/WUWvBHbjzyp+yZlOv7q7cmjhdcKqIDCHwQABoMODc0OTcyMDYxMDI0IgyHou1CdwFn+MoXxuwq/wIAxIaxg3KgQmXxuwl/OjWv8fEHVH/1m1Pu/ncUNiASLeYi/+HdMkCWVXlEmiF3TO7WJSttB4CDUaOf8OxpV5KFJVl2cwcgmbmtdLeXB+V6OAu+MrMHnldQwoaCeZCw7m1o3ZRSJy/i66Ua5xuJsCzjuXuVBpW0tETPgkPwIIQhdG1DGilJDFwUkdKjltntSLjWkrKbtnPMvV6MUJsvfChCqKPebk+ag+vfg1B/5RMKWMqNBjTdPso3Uwq95v2/pxgmnVbOj94cs97TEtegXXBWO1Ta3/U6QFynzGrPCc68rbYNtSlmn2bWf2bsglypvR84YujsHqk0tiudYy5glavndwD0so6HdVOoySnbOgmM+LYH37lEC9jy8VIdOs/XaRvs/1q94UEhCMaCsjwDIBDxQM1mwixgyn/S/DuwrMWFgy86gXfNbCu1CHJj5Zw4njXuBu0hbMYjyVChis23og/N/wG+WCn2wKG/oWFeW5xPX9ukKijM2JzBsR6QGatMmjDN4LuPBjqlAVYA+R9CSrmNSpE0PDpEB/wsM2wMYTxsluG238KM/atPdBBReoWdVwL77EMEg2/uyVMXaZjAspHbTSLDhk2GTmT1//vqcFvo6mQdfW+L0wYkcsIROPYUfTunKfT7IMw+HI39B5cdpMVIOrgjjEcnWs2t+wBdlYJHNtyU6WKrKNexUQ2WSMSMbKf06qvuRzEtNVwfZ5U3jHQMIKQ1Of4+PFyF/LlFiA=="
+aws configure
+aws configure
+clear
+aws configure sso
+aws configure sso
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+clear
+python3 readingDynamoItem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+python3 readingDynamoItem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+clear
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/readingDynamoItem.py
+clear
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQPX346PRT"
+export AWS_SECRET_ACCESS_KEY="3QN6u/d7X9hRPaOVj/JX7yHlIlnNN40dYvnGj122"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQDt8b/XH34GX7c3NU821P7L26/LaUsHLNkr0V/zftwk9AIhAKQJe6CVAbQMmlSihNPiJHeIIuaUW52fsb+sanmFeieqKqsDCJL//////////wEQABoMODc0OTcyMDYxMDI0IgzOJRjlUoQ/WFUDle8q/wLddpwrozLx2OqyC6JMBbglygIIQ3lbvaBkPiFTZ5BrIj6VXCYNJIjGXJK8LVbzKIU4HOVVnOlZAEwvMn0SOKoPMtPJwpQEKk43d/UF2Mm7i+nfds+xdYFuaWaLAs4mD4mU+S9chh+gycSD6x72BHI8mIgrjvYboP9WcpZ01ZSfq/Mv7iqVax63SwtvwFauSG+onuOzGIjzcg92Da6YY1bszpOBSJpsRYBcMgMZ9N5BUbXZ1cCswx8RYv6N/yFo7bg+cftVic+0pBIeMTvLo7z3UxokxbVtiBKABmWQjPQJV2tCeK1UKISoxpa+jrdEXNdNAxdCUFIIOLEn34IWG/XnALMzPdQOaXD6s3KT5l0EF5JU7sT6pdDiML99TIpxwsPPHTahBHROUFn6RJDnZZv3CQMjHO3NR4UpnOLAfHwNcE8kgHJdfLvGTdSQ7I1MD7DH+IHqYKUyzVme+uNZSF5YqJ5OfqdzqqovGccPGvIu6aEyeHEiv7xFxykKvXa32DCP1cCPBjqlAQF6gTeFHdT4lxAL9VaVv4tgAi8pxcmSmQV/jUduusuJg4N3EEI9E8yeiVii8ZAxdvRFIcLQrHjy8SIBCdWGWAt2h81egOUbDu2KMBCy4ZfhzkIx/d9Nidl8rQTRKk+1aJpAPBEtq0vN3T7987Y4XSRWGBtBbTpjnP2YCqIoERxK8eeeTehhWHWNipiCjmnAKbwIIYK3xa6wzgXtgO9YYkQ/KNA0Hw=="
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQJQ7EF2VE"
+export AWS_SECRET_ACCESS_KEY="h6C7LOi0oylffhxI97OhFkEfIXIX5NSubKpeqt66"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEFEaCXVzLWVhc3QtMSJIMEYCIQCloAk5mck/NgbKiQ+xJrQBM7s1XQ0NQlLOL5TBVn1fGwIhAImG+hf2Rr4HCEbJfL5onaKaF1lVnYMuSY65aVS7lmLZKqIDCHoQABoMODc0OTcyMDYxMDI0Igwptmn/2uByi2NmUGEq/wK2zAWSRtSVkI4/5UO0X5ObxWEwNHnjjTKCeFiCS+vR98odEjenh0thSaGK/Mhl2KRFcgso1nMyBgr4QVRzpAyDbEzhUo4oUp2jrpAp6+4AQySSfCt57HSjA83iij1Wz3JAbO9kuIeNa3zUqk6S6x2vIX/8xobolr//CUb+0HG3Av31PavTZ3R4GEfG0oFzcwNiKgdhhmbfmqpBlR65MD4KjaTLMN9/SOq/OP15JK7485VeoH9Nub/MZVwFyE+mOXT2YM3upA24ggu7/WcVWRu3P0c7GuwpuTKucgxS9KBNkeX/0UH2zhFJPQduK5vwORQH81oQxfL66UjXafrVJFZzjfFwtzDyDsOOuapXDzJw/xnD3tbdIMHIpda8c3zrnjKcGp14vok4rAe9ETevz+pTzbwT5Od+AG1uJWiq2/xxsRZMVawdCc08zTlhSKiy3Vce3YitBS4jsQ632q6fXG8s/l+KQqDHRP0yS9tzfpFVhfUPJfdUfIs3QybnYBZ4PTCFsbuPBjqlAaanQmosDWop+s4Ej+FvN5RrNQIIH3jyPlynd/wlu1geUNqaIauFtdReu1BHl+3vBC/WTNrrZICAkbzrizPIuL7f2cZdGvUbjYihizczW8XOWCl08a6aHaGpvpN1rEh32WxsqBriz8Kv2eWugbWz7kfzmpEFSnl4zU/mYu/nYUlcw8q2BaOWyL4uUjOIdpURdFKlgzREqyP3hS8iSVnnZRZwO/4XVA=="
+aws configure
+clear
+ls
+pwd
+clear
+ls
+export PYTHONPATH=''
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+clear
+ls
+clear
+ls
+clear
+source venv/bin/activate
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+aws s3 ls --profile Developer-874972061024
+aws sso login
+aws configure sso
+aws s3 ls --profile Developer-874972061024
+clear
+python app.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQPX346PRT"
+export AWS_SECRET_ACCESS_KEY="3QN6u/d7X9hRPaOVj/JX7yHlIlnNN40dYvnGj122"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEGkaCXVzLWVhc3QtMSJIMEYCIQDt8b/XH34GX7c3NU821P7L26/LaUsHLNkr0V/zftwk9AIhAKQJe6CVAbQMmlSihNPiJHeIIuaUW52fsb+sanmFeieqKqsDCJL//////////wEQABoMODc0OTcyMDYxMDI0IgzOJRjlUoQ/WFUDle8q/wLddpwrozLx2OqyC6JMBbglygIIQ3lbvaBkPiFTZ5BrIj6VXCYNJIjGXJK8LVbzKIU4HOVVnOlZAEwvMn0SOKoPMtPJwpQEKk43d/UF2Mm7i+nfds+xdYFuaWaLAs4mD4mU+S9chh+gycSD6x72BHI8mIgrjvYboP9WcpZ01ZSfq/Mv7iqVax63SwtvwFauSG+onuOzGIjzcg92Da6YY1bszpOBSJpsRYBcMgMZ9N5BUbXZ1cCswx8RYv6N/yFo7bg+cftVic+0pBIeMTvLo7z3UxokxbVtiBKABmWQjPQJV2tCeK1UKISoxpa+jrdEXNdNAxdCUFIIOLEn34IWG/XnALMzPdQOaXD6s3KT5l0EF5JU7sT6pdDiML99TIpxwsPPHTahBHROUFn6RJDnZZv3CQMjHO3NR4UpnOLAfHwNcE8kgHJdfLvGTdSQ7I1MD7DH+IHqYKUyzVme+uNZSF5YqJ5OfqdzqqovGccPGvIu6aEyeHEiv7xFxykKvXa32DCP1cCPBjqlAQF6gTeFHdT4lxAL9VaVv4tgAi8pxcmSmQV/jUduusuJg4N3EEI9E8yeiVii8ZAxdvRFIcLQrHjy8SIBCdWGWAt2h81egOUbDu2KMBCy4ZfhzkIx/d9Nidl8rQTRKk+1aJpAPBEtq0vN3T7987Y4XSRWGBtBbTpjnP2YCqIoERxK8eeeTehhWHWNipiCjmnAKbwIIYK3xa6wzgXtgO9YYkQ/KNA0Hw=="
+aws configure
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+clear
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+clear
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+clear
+python app.py 
+clear
+python app.py 
+clear
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQB6MOLALX"
+export AWS_SECRET_ACCESS_KEY="MLKuOMxvfjRcxagGbb1Z+qXK/2vxBCdHv7TFbRcu"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEIT//////////wEaCXVzLWVhc3QtMSJHMEUCIQDnUMiPV8zYh4OuwBwgN6KQsn8WH7i/2ErkeRWtc5+/uQIgbI8KCNNGzLqoBTE6440PsCjy1BEhsaIk0qn2GLFBRBkqqwMIrf//////////ARAAGgw4NzQ5NzIwNjEwMjQiDOcThoy8GNIt6whFZSr/AhMlcKjXd8ns2URgeOlqacRCvKLfw6O61J7FgZDKPxhbWSxrgJ5q1pbSBgsrmYHAnP8sVVtDnCkAV4onyeGuPOIu9e1cZUZciK7vyv24FyDqnT83ZSdeqBma95NaYkRTNa9xDX1FUIpjtMPf1pcaEQhdohSA5YtpGcjCv1QEsbWU4u4krVQJW7x/gLZrDhGvrShtT5FufJOTruT9VTvusGrGo/1Hy6e+Q20h8ttmp5MelKY7MO26R5qAJwSejTSgIASA2G965/243E4rBq48qlp6/MPITlU4XfztOr6F0/3AbA0s+rRJqJ731LOg/YaHoHBThVCllaYbPj2gDXcFP0Wap4r2VSMmvhvb0x8O/KjvRKa6imdx0h5aD1twGJcVmE9H289rAUfAHUeApO7Ug97h9P+ge2y8wvU/qJDDtw/SvvtW0a5pn93bhYSgeyHeavUmYWxqfzjmhH/1uPc0VIHUb+sPoDAnAUCGWxZFQz80B2I3RbJ9z5ryY5AG1KeMML3Bxo8GOqYBLFphlz6mbqr6krT1+rjqPsGZ801IGliJ7wRoldS0WEszaTm5IQamDXpDP8KNVJCQQHs50BCxT/Vfwn3zHTLRMALoJcFjTcioXo2zQ4mTLBXdw7eo7BHnhzW25GrPclZtO2nxmhgA8646LXi6GvQHtYXVkOjCJpNlkJDlgMX0a1Y6B4IphZJrQ5WANIBZMee8u0RAgEDMPUBV66TlC0EuxW13Zcu6Yw=="
+aws configure
+aws sso login
+aws configure sso
+aws s3 ls --profile Developer-874972061024
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+clear
+source venv/bin/activate
+python app.py 
+clear
+python app.py 
+python app.py 
+cleaer
+clear
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+clear
+exit
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQECNTQMEB"
+export AWS_SECRET_ACCESS_KEY="lJg3cvnBbL4hFljIosjazbXRKOFo4MiJUMhdz7Jj"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEJv//////////wEaCXVzLWVhc3QtMSJHMEUCIQC8RnS5p1H8JCnrUHk2ZNAq1ZPDjwAreNq75Iq4TCC8lwIgBb98k7+7DiUUmmziuoQLTPOuuCccbSMdwEB0NaYZMcQqqwMIxP//////////ARAAGgw4NzQ5NzIwNjEwMjQiDPUlW19AqTyWvSkeeir/Ak2/WhgQI6VMpbio/aJcCm2NEEr9aDzgJgmKxzHB7f4/UJ5mWaeRKT32dSNMFfo6lYK6dMsaXfCL5Ount5gYGaJjVOjQLsJTjQ0mr6dwljjfsqzI8cmpUVKZOADcxQKn+43PloQIWjEd17bhqrWiHKYdmgyS27wYNb12OXikA2p0aOXHU72BB1Zkh4Foj4FBDuMQGgnC9Jw/RFrMiisrWxhhqi0xwoKnZoFHhIKwRDviagzCg8IBoAp1Achd/7sHoriQCE/n7Rtd2ulrZ1QrhajYyq6DMubMpsRPHhK6l2doVg5ynJAF4cMBl3YIzqSpNYRedyAfEjO02e+2rW2X/TcCAs1aj26BDRkh/fG23snIO7OBtpbxp3EHihA1LJDDQr1d0CnOuCGOxulqaKFoaI9JLom7p4BDyBZlZfOmtgCSyoT5tyzYmoehNeqno/uAVngowiPWowTn6vXwSm1dPU5arSlF/1NgXHYxil6lAjwudo9ZYZA1L7AiBpiBbV0eMOTFy48GOqYBOUJGDl17Nxn8eOloi7+rZXliiOAVWROPHkntgQ0pbt1hqTe5jpTwskkWOD4+PTor5DlbCVA1xl6eGSYNYsUroxfADgkdQS+sN+3yWueYjUiHOdZ3rm8+SDPqCB8aBEWhI+sYbWdrEqymOUx4Qby1nJoerB2GyZXONOtla5Xh2kXBxZI83HifS8VIJye+FLYkh38SRNuCRUfGqlx0CKGFVyUJuKE5Eg=="
+aws configure
+aws configure sso
+aws s3 ls --profile Developer-874972061024
+clear
+source venv/bin/activate
+python app.py 
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+python app.py 
+leave
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQKPPERZBV"
+export AWS_SECRET_ACCESS_KEY="O+AC8B59hWdmg+LALwKmV1UO9U12QkX8xw6U/I5e"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjELH//////////wEaCXVzLWVhc3QtMSJHMEUCIQD6Nh8dhlLIShZAY5tzN6Glsd2PCetcteCw+uSgufCASQIgdTBVEgZ852HDU+8BoHIvGv4/qV6RtvbIO9c+XoUdSuIqqwMI2v//////////ARAAGgw4NzQ5NzIwNjEwMjQiDPZdqp8suzTAnWe6Hir/ApJNFt8gADvf1TZ3XH2/v/L5ukdFfADJ+wR0qzVnbJrqw2V0ke54V1p/gcv+VDnseZrDWgbDmLRFV1ejaLsHsTyjbjjZ/z4lEVtE5mwUKydH1MMcUcaJY9+HVUWi3w1q7YWwkaATd9WOhqcQRc9pNIyzSIcjTRgCiZEZpDm6GUVuHFWacOwo32KSmHc5dAddNvVJ90VUYJIROMoxA+trTbXtBNF4tUNym8LPrOfaxdIFlLAqKKOjBZz+fWmEni3VhrYMBwNcwoJJ0Zdpc6qNqk3uYkfjDHnfkubP8A62TTAasmsvTheRF+N7twmwDJ+TW0WoSA6o4p8JPHwHsgUu76ZUUK36kqZ/92tDeUX5cIoQAhKKwhiQCj1KS2TqtBF/s0vCw8+s7MmG9p+egYmPCNrseq5SaIDsQyVRQUQXLc5PY7f9mGozgSnyAH5CU4OWDGcFBoDcoGBlz5gvLlo8TadHJjreo0MJsGUWe3ysWpwR3TnfXF/I4zv7vcXl6ko4MJy00I8GOqYB6I9oZE5vS1g+oWTuN/QYJ862GEnzWRcwdIrO+S/SZdEsLoobH6QnJKaQjcLfr4idk3DgVoXmeww+mde3OyJj0CM5JucpMmYoLxM0/J4FIv6uTdEX4Ahj1jtBJ/6UByX7qA+HmHNW3NuffC7AXy65eOFkhgDoqq7n9x50vi0O9dkuGW/Z5R+JCZSg8oklSchdb4mkIQFmYKJAbYLDdPJpaxrfVJca7g=="
+clear
+aws configure
+aws configure sso
+pip install yawsso
+run login
+yawsso login --profile $AWS_PROFILE
+echo $AWS_PROFILE
+brew install direnv
+echo $AWS_PROFILE
+brew install direnv
+source venv/bin/activate
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+clear
+ls
+yawsso login --profile $AWS_PROFILE
+python app.py 
+ls
+clear
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 CreatingATable.py 
+yawsso login --profile $AWS_PROFILE
+python3 CreatingATable.py 
+yawsso login --profile $AWS_PROFILE
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQP7GRS6BV"
+export AWS_SECRET_ACCESS_KEY="PCZaIt6C0sf7/pbnLJ8p0qyi7xAunKe3lBeoNWlR"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEPv//////////wEaCXVzLWVhc3QtMSJHMEUCIQD0iAEKMb6oWpnyJHOFNTaCs2R9O+nQLAFEoSfnIyOTTwIgIr+AMZpd8OYoWEgMSXlC0EiJ0Ep6AKzS7Syk7zB7hLoqogMINBAAGgw4NzQ5NzIwNjEwMjQiDC7fQ74Oa7QWB2TIBCr/AlUF0R5Ua0V4dZqYDYrdrMzaLqUPKNMnrFTU1Crv5Egl3fx60bxmytpOkAquG2GXAZJY2vFBE/jkzYKSuzj9N6Wb7/ODy260ZyOU+zSulFmCevViyXpX7ukyN1ujVn2wepeVYBtAjOm55F26VWzI5hRyDIakwUuPwstix3SZMknVRcsylI3e9DnZ4enHiZlq4Uetod2kYpnQgEW4QQD139h5CSGPL1+mmm0xPFz4HhkMggHQ/hvlahuJ9Ehm6NjXdCFHDwF+Nf7umcd+flqGKaNgYQeVcT3fAYeiqZft4sIW6UxwtQuu0s9XkxGedzFlBBHAp6rrSsZoPdpstaFmn+6qpp8KN333VNt/ichpxXI5mYv/0Ihzu8U/7bKc1BTICIOmlaFKzqQEsqgPlefxOIq8LfPRDy3dDTrnHBg+t7w7kgaaasPh0xWoGuvMlanuSpGzk45FjpTGACcCCJyK0Vv56Cthz/FSkKGQDNOKDEXMsbhwRYMKetAYaKY+if/mMP7d4I8GOqYBwB3I8LbNUDbVc9aPxfgmGKKTwzVTaCJWa4FeLcJC8K0LmQATzc7EdM2Xi1QqxtUDpoSYtOLnueFchIVEcyDH1InL1hVMtq1WncOEtl5WNludfzjUiOqN7AqwDp9O5nt1FZ5Dw+NCrOl9J2272uvYkwew7BpxFMFDw5x2rCwA16IsP7rhyYcJ/PfzCg1b1gLhVNxPwUcNGFo0cgI+eLNfjxRF9HTFwg=="
+python3 CreatingATable.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 readingDynamoItem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQP7GRS6BV"
+export AWS_SECRET_ACCESS_KEY="PCZaIt6C0sf7/pbnLJ8p0qyi7xAunKe3lBeoNWlR"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEPv//////////wEaCXVzLWVhc3QtMSJHMEUCIQD0iAEKMb6oWpnyJHOFNTaCs2R9O+nQLAFEoSfnIyOTTwIgIr+AMZpd8OYoWEgMSXlC0EiJ0Ep6AKzS7Syk7zB7hLoqogMINBAAGgw4NzQ5NzIwNjEwMjQiDC7fQ74Oa7QWB2TIBCr/AlUF0R5Ua0V4dZqYDYrdrMzaLqUPKNMnrFTU1Crv5Egl3fx60bxmytpOkAquG2GXAZJY2vFBE/jkzYKSuzj9N6Wb7/ODy260ZyOU+zSulFmCevViyXpX7ukyN1ujVn2wepeVYBtAjOm55F26VWzI5hRyDIakwUuPwstix3SZMknVRcsylI3e9DnZ4enHiZlq4Uetod2kYpnQgEW4QQD139h5CSGPL1+mmm0xPFz4HhkMggHQ/hvlahuJ9Ehm6NjXdCFHDwF+Nf7umcd+flqGKaNgYQeVcT3fAYeiqZft4sIW6UxwtQuu0s9XkxGedzFlBBHAp6rrSsZoPdpstaFmn+6qpp8KN333VNt/ichpxXI5mYv/0Ihzu8U/7bKc1BTICIOmlaFKzqQEsqgPlefxOIq8LfPRDy3dDTrnHBg+t7w7kgaaasPh0xWoGuvMlanuSpGzk45FjpTGACcCCJyK0Vv56Cthz/FSkKGQDNOKDEXMsbhwRYMKetAYaKY+if/mMP7d4I8GOqYBwB3I8LbNUDbVc9aPxfgmGKKTwzVTaCJWa4FeLcJC8K0LmQATzc7EdM2Xi1QqxtUDpoSYtOLnueFchIVEcyDH1InL1hVMtq1WncOEtl5WNludfzjUiOqN7AqwDp9O5nt1FZ5Dw+NCrOl9J2272uvYkwew7BpxFMFDw5x2rCwA16IsP7rhyYcJ/PfzCg1b1gLhVNxPwUcNGFo0cgI+eLNfjxRF9HTFwg=="
+python3 readingDynamoItem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQI36NMUPS"
+export AWS_SECRET_ACCESS_KEY="wlmd2Q96RLTFW9Ot77dJgYIePuJaXCHiUuAAtMdg"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEPv//////////wEaCXVzLWVhc3QtMSJGMEQCIAVAIja13jyB/qpy/AGWrAQrGekJHTd4TJ4qgeGQCFTgAiA2M3CGfFpJ71z39OGY0Al33y3eUaq1dkNPz/zITcS1VyqiAwg0EAAaDDg3NDk3MjA2MTAyNCIMgEsfk9FtUuY0fAx2Kv8C4BNAqu7ARFToD8fizJ6eda38aAUfpJrTwEIJoEWEexMvLExqAbAQxw2+21zLjEjVzRcyF8hzgGj7WbvtD1119HryyT+3xcH82VsoyKSTF1+3kTMNEXfA6vnG8iUrDC0xCguemv6TxEJob2GfWzta/tVxyCzNLjA1FS8cnxTpTep0uFDBZSOqL2+8wMO1T0jaofb9dXUpZI3fBV/zdTxcjZfayn/CuAJ8zI51ag5mAmcgZndPaZlMk2wHQY1686Xqbu9vrf3tTHIRUks8fCDPevrl8YSzXEH2ksnBAVTEWbY6JvrHcdEtLMkDNLHfArRt+u9wLSBGmL/gba0AP278qdpr1spy0VOb3NHr2L22LgbZqgN1Qj2TaIUIGSy7kgr7powpXkiOACtZj/hgSF7rhkHCUgbtFtC9WMsS19MYujWKU5F+V4HYSLMlggwDXW7yYBu2aM5wThfOy4B5iWUBrNxSWYl+T6wZO9PKypUZY3MQdNJwEcWqnlnfCmpWJnAwvuLgjwY6pwFvpycUTuc6fD4rscByeIcnjDtZ0jl+x0Q9Ec+/50IgFBp7xonMLizkLuajV0qyRoA+44Jg4lMRNEts4kAzFLQg6M29ykgck2ATjMWNWOCtIaMz5e/e7bLQt3SUBEchlSumhADW5AzTv1yo99Nb7MbD3+OCxgWWJXjRnhwU2AqXSGg2to7EGc0s6eMcikaKY2+TLY6lALCLHiMUe5qPnS7UW0NyHeh7WQ=="
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+clear
+python3 readingDynamoItem.py 
+python3 readingDynamoItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+clear
+yawsso login --profile $AWS_PROFILE
+clear
+pwd
+export PYTHONPATH='/Users/dherrera/Documents/Projects/ltiTestingTool/BBDN-LTI-Tool-Provider-Python/app'
+source venv/bin/activate
+python app.p
+python app.py
+python app.py
+python app.py
+yawsso login --profile $AWS_PROFILE
+python app.py
+python app.py
+python app.py
+python app.py
+yawsso login --profile $AWS_PROFILE
+python app.py
+python app.py
+python app.py
+python app.py
+yawsso login --profile $AWS_PROFILE
+yawsso login --profile $AWS_PROFILE
+python app.py
+python app.py
+python app.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+python3 deleteitem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQCQFVGDWC"
+export AWS_SECRET_ACCESS_KEY="GO26rPnNu6mYFvfOn4gYkGyukZU2dHlUo4VqdlJa"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEDAaCXVzLWVhc3QtMSJHMEUCIQC0H6+vRThRm3iryrI7U2N8kPZoaurdXVnECA/pNuJvHQIgIeecdzQvRsmwf54PjGXHODjmclnjfm3wdeQDJJ0WpkEqogMIaRAAGgw4NzQ5NzIwNjEwMjQiDCQVMeaNKE2a6hi/fyr/ApD9AZ77W65xp26y/5XW5mQt544muKVuzjD9kEbRwtF2VtWxtPVGYPW9TFpJUxtq9LxoEkKsNfrmUXlpg1l8qwfqAc27Ec1tdc4F/aVVP3lK+wFNOmrNRjogJCI7I6DYOxy/1G14L6ymkMHL9ac/5jXE8OeLdwORYxKyVJIUMQloajAv2lMFiVq5V1A9VHosNrV9tphfhPeXK8qyA0yxyXUgUInHvNG0ZrtRXGN7+AAT/PSUnPmJTLOnN0SFq5MBNMtxySAjPYO6SyUnbSS8VK/zE1Uu6nyt/tmxLhAC1Yv7Zi9nM6LjMe4cbxabTH+7Sqa0R/DJ+7PzjEHaR4vTDaWRdBtEZ5BdG3REU38o0MqmvmAPepTRBjlI6bBaEJC/lTG/Zp1uH2e2Q1kNMtNdo7/1Xdmz+ZWYy52MARmxCTiAkBFSGJJ9wCO8iN6uJ6jjghaAPCnwiRbhA/rXvCotX3yE+Bd6TRHeK2C77UYWA2bdPDiMgcdcPncrLNyKW483MOOx7I8GOqYBHbz4vUVlRQg0ox6m9aIkgXtrb6W5DAUeafsF+DYCk10LdNQVlnTrTg4dCIJcv6T4Zv4RtnWBgIX9Eixv27zbfBBiWI+zJaJEnOR+S39955lz8/nrUALukrjt6M4h/81Ee5xv2aPdMjCxUgv0orFZqYAt4cowbwSz9Y77TQ0X0infuGK/gl5/yOF+i/VHKtlJQZfY9EQQcZK+p6ilsXfotidm16VG7Q=="
+python3 deleteitem.py 
+python3 deleteitem.py 
+python3 deleteitem.py 
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+/usr/local/bin/python3 /Users/dherrera/Documents/Projects/dynamoTesting/test.py
+python3 CreatingANewItem.py 
+export AWS_ACCESS_KEY_ID="ASIA4XODGDVQP6VGQBXH"
+export AWS_SECRET_ACCESS_KEY="edpRkmjc6eD+ls0I0CHasgsd+tF+mhRzatYuG/RU"
+export AWS_SESSION_TOKEN="IQoJb3JpZ2luX2VjEBcaCXVzLWVhc3QtMSJHMEUCIQC5k8XuqYAaNcjezH11QENsdrQZ2DNSOg8l+hVOiSHtjQIgW1UfEgNS/TaeZtLnBekpfYl4G9cfHff9mA61Ox8/FZkqogMIUBAAGgw4NzQ5NzIwNjEwMjQiDDYyKw8txsoHj1OW2Sr/AvcNT3/lfm4tE16y9+7PbnbUwRs+4DeCLQT8AooiCF28Tj/LjHwY4zCwMgd+0syDolMia1oOX8zkurttOXZ9IdTtTFwKQVz3oQPhDKDxdLUDBgd0LiQNjUl65JI4dcpArakyakE6UWya36ZartSjbtfDRZc+BiGqJE7qPQ1aBfm/d0jcS2kYEadgQWANLg3H6adBxYvjTpWP4Yw4Xc7vt6wjxvO5Xk+dCHhYDc3urp3l5c4IsErcyx73El32cWzQdUor9tak3wJka1oZXX4FFBNmPhnsm0LTMJB/RDpgIFvVHaBNrVBGXqABXeUZQ2r7ScEXXKUw65sY4Ss8HPb8sG3HMl7yU92QH1qQzwvbX54FtrxuFnOzNwPqKLx+wrgKn70ilabxlOxqfJqXfXgD6jpTqxKQpz4lC7PceN0PMMKcZB2L7wynvLhzPzZZmxKe5yV2U2XNxoXu5O+1HvAZPod4NkujZB0CaV5dRJ7Ht81K/Aiv2kJpUOLFZJom6Ku2MPPr5o8GOqYBEbT647t11LZjeSJ5YgHUmARHTcJDw+UAw0QyWWepua4+3KUcwGhFbIuTbizNMGgwbGX7Y0dYi/9V5k7V27NqV51mH0SoT1dSwMMXU8/7zLiguVqkEHJfdjqFKxyMlHRvkqt0/t91u5q4wHgeeCainUUp43/akLviWBLQTXSkOQDg99X2gwuShzVZWQ5P/AgXL1K0enmVa8R8xZsp6PtqyZaulL48JQ=="
+clear
+ls
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+clear
+python3 CreatingANewItem.py 
+python3 CreatingANewItem.py 
+clear
+python3 CreatingANewItem.py 
+uuidgen
+curl
+brew install curl
+brew install python@3.9
